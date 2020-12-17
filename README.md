@@ -11,3 +11,5 @@ change made by manju to push to repository 1
 
 change made to master branch to advance to next level
 this is the line from my feature branch
+
+thisis a line added from bug-fix branch2
