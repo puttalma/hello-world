@@ -16,5 +16,3 @@ thisis a line added from bug-fix branch2
 
 Line from b10
 Line from f10
-
-Learning new step
